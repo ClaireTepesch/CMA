@@ -5,12 +5,12 @@ Application displays a new artwork with relevant information each time the webpa
 
 File organization is as follows: The project is divided into three folders: 
   1. venv
-    - app.py
-    - data.txt
+    ,app.py
+    , data.txt
   2. templates
-    - base.html
+    ,base.html
   3. static
-    - Artworks Folder
-    - BannerImage.png
-    - main.css
+    , Artworks Folder
+    , BannerImage.png
+    , main.css
   
