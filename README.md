@@ -1,8 +1,12 @@
 # CMA
 CMA Developer Code Test:
-Flask framework implementation of art library web application 
+Flask framework implementation of art library web application. 
 Application displays a new artwork with relevant information each time the webpage is refreshed. 
 
+# PART ONE:
+ DataTransformation.py
+ 
+# PART TWO
 File organization is as follows: The project is divided into three folders: 
   1. venv
     -app.py
