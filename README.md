@@ -4,7 +4,7 @@ Flask framework implementation of art library web application.
 Application displays a new artwork with relevant information each time the webpage is refreshed. 
 
 # PART ONE:
- DataTransformation.py
+ The file DataTransformation.py extracts the data from the art database, writes to an array of JSON objects, and then writes the information out to data.txt
  
 # PART TWO
 File organization is as follows: The project is divided into three folders: 
@@ -18,3 +18,6 @@ File organization is as follows: The project is divided into three folders:
     , BannerImage.png
     , main.css
   
+ # NEXT STEPS
+ Add interactive features, including working search bar. Allow users to scroll through images. 
+ 
