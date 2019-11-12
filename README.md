@@ -11,10 +11,10 @@ Displays a web application through flask framework by parsing through the datafi
 
 File organization is as follows: The project is divided into three folders: 
   1. venv
-    -app.py
+    - app.py
     , data.txt
   2. templates
-    -base.html
+    - base.html
   3. static
     - Artworks Folder
     , BannerImage.png
