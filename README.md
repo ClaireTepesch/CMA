@@ -21,5 +21,5 @@ File organization is as follows: The project is divided into three folders:
     , main.css
   
  # NEXT STEPS
- Include working search bar. Allow users to scroll through images. Improve parsing of information of the artworks for better visuals and user interaction. 
+ Include working search bar. Allow users to scroll through images. Improve parsing and display of information of the artworks for better aesthetics and readability. 
  
