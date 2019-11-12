@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Art Image Gallery</title>
+     <link rel="stylesheet" href="{{url_for('static',filename='main.css')}}">
+</head>
+
+<body color=black">
+ <header class="main-header" role="banner">
+  <img src="/static/BannerImage.png" alt="Cleveland Museum Image"/>
+</header>
+ <div class="topnav">
+
+  <input type="text" placeholder="Search..">
+
+</div>
+ <div>
+    <h4 >
+    {{ text  }}
+    </h4>
+     </div>
+
+    <img src="{{ user_image }}" alt="User Image", margin= 10>
+<div>
+    <h5 >
+    {{ text2  }}
+    </h5>
+     </div>
+</body>
+</html>
